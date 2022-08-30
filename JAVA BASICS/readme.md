@@ -59,4 +59,20 @@ Characteristics of abstract class
 11
 Interface
 What is interface?
+
+12
+File handling in Java
+File operation in Java
+Java.io package allows to do all Input and Output tasks in Java.
+Create a file
+Get file information
+Reading console input
+FileInputStream(byte wise),FileReader(character wise) classes to read a file
+FileOutputStream(byte wise),FileWriter(character wise) classes to write in a file
+Read a file
+Write to a file
+13
+What is debugging?
+Debugging vs troubleshooting
+How to debug?
 </pre>
