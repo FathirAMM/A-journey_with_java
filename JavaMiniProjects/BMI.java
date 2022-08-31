@@ -1,4 +1,4 @@
-package PastPaper_2016;
+
 
 import java.util.Scanner;
 
