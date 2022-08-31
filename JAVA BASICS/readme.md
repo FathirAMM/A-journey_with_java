@@ -52,6 +52,8 @@ Parent - Child class
 "extends" keyword
 method overriding is the example of Dynamic binding
 How to cast an object?
+Multiple inheritance problem?
+Diamond problem?
 10
 Abstraction
 What is abstraction?
@@ -59,6 +61,7 @@ Characteristics of abstract class
 11
 Interface
 What is interface?
+How to achieve multiple inheritance using interface?
 
 12
 File handling in Java
