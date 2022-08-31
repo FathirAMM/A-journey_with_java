@@ -1,4 +1,4 @@
-package PastPaper_2016;
+
 /*
  Read the file input.txt and copy it's content and stored in a variable then
  write that content in separate file output.txt
