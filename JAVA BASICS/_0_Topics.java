@@ -101,4 +101,13 @@ What is debugging?
 Debugging vs troubleshooting
 How to debug?
 
+14
+Data types in Java
+primitive data types
+Non primitive data types
+Java literals
+Character and ASCII
+Casting 
+Array
+
  */
