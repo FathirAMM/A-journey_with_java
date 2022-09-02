@@ -118,4 +118,9 @@ Command line argument
 
 17
 Operators in Java
+
+18
+Binding
+Static binding & Dynamic binding
+Virtual method invocation or Remote method invocation
  */
