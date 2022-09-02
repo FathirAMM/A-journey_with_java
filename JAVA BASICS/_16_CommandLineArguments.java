@@ -1,0 +1,12 @@
+//command line arguments
+public class _16_CommandLineArguments {
+
+	public static void main(String[] args) {
+		for(int i=0;i<args.length;i++) {
+			System.out.println(args[i]);
+		}
+
+	}
+
+}
+//run configuration
