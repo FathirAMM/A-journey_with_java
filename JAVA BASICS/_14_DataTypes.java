@@ -91,7 +91,12 @@ public class _14_DataTypes {
 		data[2][2]=3;
 		data[2][3]=4;
 			
-		
+				//casting
+				double dd=10.0;
+				System.out.println(dd);
+				int ii;
+				ii=(int)d;
+				System.out.println(ii);
 	}
 
 }
